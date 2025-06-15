@@ -1,5 +1,5 @@
 # Summer-2025-ECE-597-Group10
-<span style="color:red">**UVIC MTIS Capstone Project**</span>
+**UVIC MTIS Capstone Project**
 
 **Project Design and Development**
 
