@@ -1,7 +1,11 @@
 # Summer-2025-ECE-597-Group10
 **UVIC MTIS Capstone Project**
-Dataset:
+Kaggle Dataset:
 https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
+
+Cleaned Kaggle dataset(data cleaning and add ham lable):
+https://colab.research.google.com/drive/1XXFTAiR6VyGDNIxv6AvfWvDFiOlAOX2w?usp=sharing
+
 
 **Project Design and Development**
 
