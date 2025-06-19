@@ -1,5 +1,7 @@
 # Summer-2025-ECE-597-Group10
 **UVIC MTIS Capstone Project**
+Dataset:
+https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
 
 **Project Design and Development**
 
