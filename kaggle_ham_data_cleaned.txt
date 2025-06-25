@@ -1,0 +1,3 @@
+kaggle data restructured and cleaned (remove stop words and punctuation, all lower cased)
+
+https://drive.google.com/file/d/1gKT09p2-Mj6IePHUTnYU9IVkEV0m_tZz/view?usp=sharing
